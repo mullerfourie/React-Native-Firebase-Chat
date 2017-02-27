@@ -11,7 +11,7 @@
 
 ## Examples
 
-<img src="/IMG_6505.PNG" width="200" height="400" />
+<img src="/IMG_6505.PNG" height="500" /><img src="/Screen Shot 2017-02-27 at 3.40.05 PM.png" height="500" />
 
 <!-- ![Alt text](/IMG_6505.PNG?raw=true "Optional Title") {:height="24px" width="48px"} ![Alt text](/Screen Shot 2017-02-27 at 3.40.05 PM.png?raw=true "Optional Title") {:height="24px" width="48px"} -->
 
