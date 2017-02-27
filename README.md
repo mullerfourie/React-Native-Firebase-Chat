@@ -1,5 +1,9 @@
 # React-Native-Firebase-Chat
 
+Makes use of react-native-gifted-chat
+
+Extra added libraries include react-native-image-resizer, react-native-image-picker and react-native-aws3
+
 ## Installation
 
 1. Create a Firebase project and get the project settings for your Firebase project. Place the settings in the Main.js file.
@@ -28,3 +32,8 @@
 
 
 ## Credits
+
+https://github.com/FaridSafi/react-native-gifted-chat
+https://github.com/bamlab/react-native-image-resizer
+https://github.com/marcshilling/react-native-image-picker
+https://github.com/benjreinhart/react-native-aws3
