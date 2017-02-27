@@ -1,8 +1,4 @@
-<snippet>
-  <content><![CDATA[
-# ${1:Project Name}
-
-React-Native-Firebase-Chat
+# React-Native-Firebase-Chat
 
 ## Installation
 
@@ -15,7 +11,7 @@ React-Native-Firebase-Chat
 
 ## Examples
 
-![Alt text](/IMG_6505.PNG?raw=true "Optional Title")
+![Alt text](/IMG_6505.PNG?raw=true "Optional Title") ![Alt text](/IMG_6505.PNG?raw=true "Optional Title")
 
 ## Contributing
 
