@@ -11,7 +11,7 @@
 
 ## Examples
 
-![Alt text](/IMG_6505.PNG?=100x20 "Optional Title") ![Alt text](/IMG_6505.PNG?raw=true "Optional Title")
+![Alt text](/IMG_6505.PNG?raw=true "Optional Title") {:height="24px" width="48px"} ![Alt text](/Screen Shot 2017-02-27 at 3.40.05 PM.png?raw=true "Optional Title") {:height="24px" width="48px"}
 
 ## Contributing
 
